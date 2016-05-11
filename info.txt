@@ -1,0 +1,4 @@
+Step 1: Download the complete project
+Step 2: Run main.html in IE, Google Chrome, or Mozilla Firefox
+Step 3: Upload questionTextFile.txt at the question file placeholder on the page that is opened in step 2
+Step 4: Upload answerTextFile.txt at the answer file placeholder on the page that is opened in step 2
