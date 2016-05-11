@@ -1,4 +1,7 @@
 {unl}
-exp(take a nap.@past,00:09.@wh)
-plc(take a nap.@past,tree.@indef.@under)
+agt(kill@past,John)
+obj(kill@past,Mary)
+plc(kill@past,kitchen)
+ins(kill@past,00.01@wh)
+tim(kill@past,morning)
 {/unl}

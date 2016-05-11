@@ -1,4 +1,6 @@
 {unl}
-exp(take a nap.@past,hare)
-plc(take a nap.@past,tree.@indef.@under)
+agt(kill@past,John)
+obj(kill@past,Mary)
+plc(kill@past,kitchen)
+ins(kill@past,knife)
 {/unl}
